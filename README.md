@@ -21,4 +21,4 @@
 - do...while
 - while
 - for
-- [Задание в час](https://classroom.github.com/a/Tg9HtDSs)
+- [Задание в час](https://classroom.github.com/a/fOWWie1E)
