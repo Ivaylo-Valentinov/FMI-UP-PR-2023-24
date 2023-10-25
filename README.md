@@ -22,3 +22,6 @@
 - while
 - for
 - [Задание в час](https://classroom.github.com/a/fOWWie1E)
+
+## Седмица 4 - Функции и throw, try и catch
+- [Задание в час](https://classroom.github.com/a/pgsO-a9y)
