@@ -16,3 +16,9 @@
   - тернарен оператор
   - switch
 - [Задание в час](https://classroom.github.com/a/Tg9HtDSs)
+
+## Седмица 3 - Цикли
+- do...while
+- while
+- for
+- [Задание в час](https://classroom.github.com/a/fOWWie1E)
