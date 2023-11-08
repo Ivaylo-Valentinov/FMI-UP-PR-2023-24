@@ -25,3 +25,7 @@
 
 ## Седмица 4 - Функции и throw, try и catch
 - [Задание в час](https://classroom.github.com/a/pgsO-a9y)
+
+## Седмица 5 - Едномерни масиви
+- [Задание в час](https://classroom.github.com/a/Od6KQW6C)
+
