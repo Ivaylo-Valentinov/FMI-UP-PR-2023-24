@@ -30,3 +30,4 @@
 - [Задание в час](https://classroom.github.com/a/Od6KQW6C)
 
 ## Седмица 6 - Многомерни масиви
+- [Задание в час](https://classroom.github.com/a/L0ps3D2a)
