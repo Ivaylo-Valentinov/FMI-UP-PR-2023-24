@@ -31,3 +31,6 @@
 
 ## Седмица 6 - Многомерни масиви
 - [Задание в час](https://classroom.github.com/a/L0ps3D2a)
+
+## Седмица 7 - Низове
+- [Задание в час](https://classroom.github.com/a/EfU9TxQl)
