@@ -34,3 +34,6 @@
 
 ## Седмица 7 - Низове
 - [Задание в час](https://classroom.github.com/a/EfU9TxQl)
+
+## Седмица 8 - Подготовка за контролно
+- [Задание в час](https://classroom.github.com/a/kduMUlMK)
