@@ -37,3 +37,7 @@
 
 ## Седмица 8 - Подготовка за контролно
 - [Задание в час](https://classroom.github.com/a/kduMUlMK)
+
+## Седмица 9 - Подготовка за контролно
+- [Задание в час](https://classroom.github.com/a/iRiPfd0f)
+
