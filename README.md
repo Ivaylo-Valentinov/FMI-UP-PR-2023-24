@@ -41,3 +41,6 @@
 ## Седмица 9 - Подготовка за контролно
 - [Задание в час](https://classroom.github.com/a/iRiPfd0f)
 
+## Седмица 9 - Рекурсия
+- [Задание в час](https://classroom.github.com/a/ZHAXQ9yQ)
+
