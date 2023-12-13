@@ -45,4 +45,4 @@
 - [Задание в час](https://classroom.github.com/a/ZHAXQ9yQ)
 
 ## Седмица 11 - Рекурсия и backtracking
-- Задание в час
+- [Задание в час](https://classroom.github.com/a/XV3Gh0cs)
