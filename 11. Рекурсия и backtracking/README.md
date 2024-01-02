@@ -1,4 +1,4 @@
-# 11. Рекурсия и backtracking - 14.12.2023 и 20.12.2023
+# 11. Рекурсия и backtracking - 14.12.2023, 20.12.2023 и 03.01.2024
 
 
 ## 0. задача 
@@ -101,5 +101,33 @@ bool isEven(unsigned int n) {
 ## 5. задача
 Напишете функция, която по подаден масив от числа и целева сума, проверява дали има дадено подмножество от числа образува дадената сума.    
 След това модифицирайте функцият така че да изписва числата, която образуват тази сума.   
+
+## 6. задача (от ДИ)
+Да се попълнят празните места в кода на функцията pass така, че функцията bubbleSort да сортира в нарастващ ред елементите на масива arr с размер size. Абстрахирайте се от това, че алгоритъмът, разписан по този начин, работи неефикасно.
+```
+void pass(int* arr, size_t size, bool& swappedAtLeastOnce)
+{
+  if (size _____ 1)
+    return;
+  if (arr[0] ________________) {
+    std::swap(arr[0], arr[1]);
+    swappedAtLeastOnce = _________;
+  }
+  pass(__________________________,
+      __________________________,
+      __________________________);
+}
+
+void bubbleSort(int* arr, size_t size)
+{
+  bool swappedAtLeastOnce = false;
+  pass(arr, size, swappedAtLeastOnce);
+  if (swappedAtLeastOnce)
+    bubbleSort(arr, size);
+}
+```
+## 7. задача (от ДИ)
+![image](https://github.com/Ivaylo-Valentinov/FMI-UP-PR-2023-24/assets/58509466/7fc4dfa0-4709-4d9b-a100-d1603001f32a)
+![image](https://github.com/Ivaylo-Valentinov/FMI-UP-PR-2023-24/assets/58509466/86b01876-d14f-441a-898d-ec1207272241)
 
 
