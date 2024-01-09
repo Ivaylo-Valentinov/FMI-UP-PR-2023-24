@@ -48,4 +48,4 @@
 - [Задание в час](https://classroom.github.com/a/XV3Gh0cs)
 
 ## Седмица 14 - Задачи за изпит
-- Задание в час
+- [Задание в час](https://classroom.github.com/a/a5TnZcNl)
