@@ -44,5 +44,8 @@
 ## Седмица 10 - Рекурсия
 - [Задание в час](https://classroom.github.com/a/ZHAXQ9yQ)
 
-## Седмица 11 - Рекурсия и backtracking
+## Седмица 11, 12, 13 - Рекурсия и backtracking
 - [Задание в час](https://classroom.github.com/a/XV3Gh0cs)
+
+## Седмица 14 - Задачи за изпит
+- Задание в час
